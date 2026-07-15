@@ -1,0 +1,20 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="300" viewBox="0 0 1200 300" role="img" aria-label="Talyh Studio">
+  <defs>
+    <pattern id="grid" width="40" height="40" patternUnits="userSpaceOnUse">
+      <path d="M 40 0 H 0 V 40" fill="none" stroke="#242A3B" stroke-width="1" opacity="0.55"></path>
+    </pattern>
+    <radialGradient id="glow" cx="50%" cy="42%" r="55%">
+      <stop offset="0%" stop-color="#00E5FF" stop-opacity="0.14"></stop>
+      <stop offset="55%" stop-color="#00E5FF" stop-opacity="0.05"></stop>
+      <stop offset="100%" stop-color="#00E5FF" stop-opacity="0"></stop>
+    </radialGradient>
+  </defs>
+  <rect width="1200" height="300" fill="#070810"></rect>
+  <rect width="1200" height="300" fill="url(#grid)"></rect>
+  <rect width="1200" height="300" fill="url(#glow)"></rect>
+  <text x="600" y="112" text-anchor="middle" font-family="&#39;IBM Plex Mono&#39;,&#39;SFMono-Regular&#39;,Consolas,monospace" font-size="14" letter-spacing="4" fill="#808799">SOFTWARE · DEVELOPER TOOLS · GAMES</text>
+  <text x="600" y="178" text-anchor="middle" font-family="&#39;Space Grotesk&#39;,&#39;Segoe UI&#39;,system-ui,sans-serif" font-size="60" font-weight="500" letter-spacing="-1.2" fill="#F4F5F8">Talyh Studio</text>
+  <text x="600" y="220" text-anchor="middle" font-family="&#39;IBM Plex Sans&#39;,&#39;Segoe UI&#39;,system-ui,sans-serif" font-size="18" fill="#AAB0BF">Technology that works. Games that captivate. Products people trust.</text>
+  <line x1="560" y1="248" x2="640" y2="248" stroke="#00E5FF" stroke-width="2" opacity="0.8"></line>
+  <rect x="0" y="299" width="1200" height="1" fill="#242A3B"></rect>
+</svg>
